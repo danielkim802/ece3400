@@ -8,21 +8,21 @@ Expectation of workload, as per university policy:
 
 All TA's must sign up to attend one of the weekly lab hours - we need two TA's for every lab:
 
-* Monday 1.25-4.25pm (Chris,Leah)
+* Monday 1.25-4.25pm (Chris, Leah)
 * Monday 7.30-10pm (Ryan, Claire)
-* Wednesday 7.30-10pm (Adarsh)
+* Wednesday 7.30-10pm (Adarsh, Daniel)
 * Thursday 7.30-10pm (Justin, Vaidehi)
 * Friday 1.25-4.25pm
 
 They must also sign up to grade at least one of the lab's (website), and one of the milestones:
 
 * Lab 1 (Chris, Justin)
-* Lab 2 (Adarsh,Leah)
-* Lab 3 (Claire)
+* Lab 2 (Adarsh, Leah)
+* Lab 3 (Claire, Daniel)
 * Lab 4 (name)
 * Milestone 1 (Claire)
-* Milestone 2 (Adarsh)
-* Milestone 3 (Chris,Leah)
+* Milestone 2 (Adarsh, Daniel)
+* Milestone 3 (Chris, Leah)
 * Milestone 4 (name)
 
 Except for Ryan and Christopher, who will man the Skunkworks lab instead. 
@@ -36,6 +36,7 @@ Every TA must also organize and teach one of the lectures - you decide whether y
 * 3D printing tutorial, Friday lecture (Chris)
 * Feedback Control, Wednesday lecture (Adarsh)
 * Board layout, Friday lecture (Leah)
+* Embedded Control, Friday lecture (Daniel Kim)
 
 ### List of TA's
 
