@@ -20,7 +20,7 @@ Week 4:
 * *Lab 2 Analog circuitry and FFT*
 * Sep 11th, Mon: Digital filters.
 * Sep 13th, Wed: Embedded Systems (Joe Skovira)
-* Sep 15th, Fri: Embedded Control 
+* Sep 15th, Fri: Embedded Control (Daniel Kim)
 
 Week 5:
 * *Work on milestone 1*
